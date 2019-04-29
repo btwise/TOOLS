@@ -61,3 +61,4 @@ ATAPI （內建）笔记本一般选这个</br>
 <b>6、放入驱动，注入layout-id即可</b></br>
 
 教程相关软件下载：https://github.com/btwise/TOOLS/AppleALC
+<b>视频教程观看地址：https://www.bilibili.com/video/av50809670/</b>
