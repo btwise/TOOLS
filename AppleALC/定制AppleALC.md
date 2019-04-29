@@ -1,6 +1,6 @@
 <b>1、提取codec</b></br>
-通过CLOVER提取codec
-操作方法：
+通过CLOVER提取codec</br>
+操作方法：</br>
 •    CLOVER v2.4k r4886或者以上</br>
 •    CLOVER里要有AudioDex-64.efi</br>
 •    CLOVER引导界面，按F8快捷键，它会在EFI/CLOVER/misc目录下生成以HdaCodec开头的文件，其中的HdaCodec#x (Realtek ALCxxx).txt就是你需要提取的codec</br>
