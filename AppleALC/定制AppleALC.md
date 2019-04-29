@@ -60,5 +60,5 @@ ATAPI （內建）笔记本一般选这个</br>
 打开源码里的xcode项目进行编译，生成驱动文件，注意别忘记了要放lilu.kext在源码根目录，要不然会出错的~</br>
 <b>6、放入驱动，注入layout-id即可</b></br>
 
-教程相关软件下载：https://github.com/btwise/TOOLS/AppleALC
+教程相关软件下载：https://github.com/btwise/TOOLS/AppleALC</br>
 <b>视频教程观看地址：https://www.bilibili.com/video/av50809670/</b>
